@@ -1,0 +1,15 @@
+
+[Selasa, 01 - 09 - 2020 | 17:26:13] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Selasa, 01 - 09 - 2020 | 18:29:06] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 01 - 09 - 2020 | 18:42:52] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 01:10:13] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 01:01:13] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 16:48:38] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 22:46:07] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:46:33] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:48:08] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:48:17] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:48:39] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:48:50] Download object failure.
+[Kamis, 03 - 09 - 2020 | 22:51:16] Download object failure.
+[Sabtu, 05 - 09 - 2020 | 07:55:13] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)

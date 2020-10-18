@@ -1,0 +1,145 @@
+{
+    "GN": "",
+    "GROUP": {
+        "AM": {
+            "AP": {}
+        },
+        "AR": {
+            "AP": [
+                "ca62166afccf84f97f86a26d8664f4a1e"
+            ],
+            "P": {
+                "ca62166afccf84f97f86a26d8664f4a1e": ""
+            },
+            "S": {}
+        },
+        "LM": {
+            "AP": [
+                "ca62166afccf84f97f86a26d8664f4a1e"
+            ],
+            "P": {
+                "ca62166afccf84f97f86a26d8664f4a1e": "Hallo @!Knapa left ?"
+            },
+            "S": {
+                "ca62166afccf84f97f86a26d8664f4a1e": {
+                    "AP": false,
+                    "Sticker": {
+                        "STKID": "17888",
+                        "STKPKGID": "1071",
+                        "STKTXT": "[Sticker]",
+                        "STKVER": "3"
+                    }
+                }
+            }
+        },
+        "WM": {
+            "AP": [],
+            "P": {
+                "ca62166afccf84f97f86a26d8664f4a1e": ""
+            },
+            "S": {
+                "ca62166afccf84f97f86a26d8664f4a1e": {
+                    "AP": false,
+                    "Sticker": {
+                        "STKID": "52114116",
+                        "STKOPT": "A",
+                        "STKPKGID": "11539",
+                        "STKTXT": "[Sticker]",
+                        "STKVER": "1"
+                    }
+                }
+            }
+        }
+    },
+    "Members": 0,
+    "MessageCount": true,
+    "ROM": {
+        "cc518cbe1f3e6ae8a7edba67b610490f2": {
+            "udebf7edb7ed566db65e8849780d0ae56": {
+                "msg.id": [
+                    "12237201970848",
+                    "12237205472427",
+                    "12237215121482",
+                    "12237217150038"
+                ],
+                "waktu": [
+                    1593527634503,
+                    1593527675374,
+                    1593527787865,
+                    1593527811721
+                ]
+            }
+        }
+    },
+    "ROM1": {},
+    "Unsend": {
+        "c6057883af684c77822d4b3e5132abe7f": {
+            "B": [
+                "12237190475514",
+                "12237190469907",
+                "12237190460702",
+                "12237190460703",
+                "12237190476410",
+                "12237190478776",
+                "12237190462960",
+                "12237190474409"
+            ]
+        },
+        "cc518cbe1f3e6ae8a7edba67b610490f2": {
+            "B": [
+                "12237190407740",
+                "12237190401058",
+                "12237190469213",
+                "12237191793513",
+                "12237212226167",
+                "12237213044821",
+                "12237215488081"
+            ]
+        },
+        "cf85df20bf78446546d4c1d1a39a0b837": {
+            "B": [
+                "12237213420636",
+                "12237214878056"
+            ]
+        }
+    },
+    "admin": {},
+    "autoJoin": false,
+    "autoLike": false,
+    "auto_invite": false,
+    "auto_room": false,
+    "blacklist": [],
+    "bots": [],
+    "comment": false,
+    "info": {},
+    "limit": {},
+    "lurkauto": false,
+    "lurkp": {},
+    "lurkt": {},
+    "name": {},
+    "notificationCall": [],
+    "notificationCallPrank": [],
+    "owner": [
+        "u2cf74acf6ed04d122def4db8ffdd2e39"
+    ],
+    "pesanCall": "",
+    "postId": [],
+    "prankCall": {
+        "audio": "",
+        "live": "",
+        "video": ""
+    },
+    "readPoint": {},
+    "readPoints": {},
+    "responCall": false,
+    "setTime": {},
+    "setTimess": [],
+    "setkey": "",
+    "status": true,
+    "talkblacklist": {},
+    "target": {},
+    "tos": {},
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "userid": [],
+    "waktu": 2
+}

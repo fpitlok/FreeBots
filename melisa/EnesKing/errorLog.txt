@@ -1,0 +1,6 @@
+
+[Rabu, 02 - 09 - 2020 | 00:42:10] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 17:38:12] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 19:48:51] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 08:48:28] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 21:24:27] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)

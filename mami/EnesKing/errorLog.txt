@@ -1,0 +1,6 @@
+
+[Sabtu, 29 - 08 - 2020 | 16:06:53] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Sabtu, 29 - 08 - 2020 | 16:29:30] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Sabtu, 29 - 08 - 2020 | 17:38:50] Invalid mids
+[Sabtu, 05 - 09 - 2020 | 21:14:00] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Sabtu, 05 - 09 - 2020 | 23:08:06] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)

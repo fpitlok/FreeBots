@@ -1,0 +1,4 @@
+
+[Jumat, 04 - 09 - 2020 | 15:20:09] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 15:21:47] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[Sabtu, 05 - 09 - 2020 | 19:14:07] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)

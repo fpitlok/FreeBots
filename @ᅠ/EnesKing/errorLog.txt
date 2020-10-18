@@ -1,0 +1,2 @@
+
+[Minggu, 18 - Oktober - 2020 | 12:52:11] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=7M_wvgBete-SQXtM3yhTKw&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))

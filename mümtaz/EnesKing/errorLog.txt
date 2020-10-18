@@ -1,0 +1,11 @@
+
+[Minggu, 30 - 08 - 2020 | 03:43:42] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 01 - 09 - 2020 | 20:18:45] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 02:14:46] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 16:26:33] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 15:12:35] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 22:26:23] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 06 - 09 - 2020 | 02:23:01] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 06 - 09 - 2020 | 02:37:20] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 06 - 09 - 2020 | 09:02:35] Download file failure.
+[Minggu, 06 - 09 - 2020 | 15:19:10] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)

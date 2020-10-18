@@ -1,0 +1,13 @@
+
+[Minggu, 30 - 08 - 2020 | 06:36:03] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 30 - 08 - 2020 | 07:09:23] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 30 - 08 - 2020 | 23:16:16] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Senin, 31 - 08 - 2020 | 00:49:19] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 01:01:32] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 10:06:00] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 01:36:44] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 17:43:14] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Jumat, 04 - 09 - 2020 | 18:01:21] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Sabtu, 05 - 09 - 2020 | 12:14:35] invalid literal for int() with base 10: '@ᅠ'
+[Minggu, 06 - 09 - 2020 | 05:04:03] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Minggu, 06 - 09 - 2020 | 06:40:03] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)

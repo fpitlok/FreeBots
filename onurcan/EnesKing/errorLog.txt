@@ -1,0 +1,9 @@
+
+[Minggu, 30 - 08 - 2020 | 20:20:08] 'MENTION'
+[Minggu, 30 - 08 - 2020 | 20:54:28] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 01 - 09 - 2020 | 17:10:34] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 01:13:19] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 22:48:05] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Rabu, 02 - 09 - 2020 | 23:27:17] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 11:52:33] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Kamis, 03 - 09 - 2020 | 16:25:14] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)

@@ -1,0 +1,41 @@
+
+[Kamis, 18 - 06 - 2020 | 18:54:03] TalkException(code=35, reason='request blocked', parameterMap=None)
+[Sabtu, 20 - 06 - 2020 | 02:49:33] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 02:50:06] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 02:53:07] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 03:00:51] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 06:06:58] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 06:18:38] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 14:49:20] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 14:55:46] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:02:02] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:02:32] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:06:21] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:20:46] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:41:44] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:42:15] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:50:16] 'emsalsız'
+[Selasa, 30 - 06 - 2020 | 13:58:01] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=THCAP_gUl8HBL9FFSg4deA&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 30 - 06 - 2020 | 13:59:02] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=wkFMnFlYycfrIwwBIPSY_Q&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 30 - 06 - 2020 | 14:04:11] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 14:06:33] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:15:29] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:16:18] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:18:29] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 20:08:16] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 21:27:48] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 21:36:09] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=rFuUfgFYPOGjBgo-4RLXcQ&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:30:06] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=ki3dm6SkcWJEELsgGNeZFw&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:30:16] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=UdAMt12NyPPdR3wLWxWG8w&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:31:23] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=_f8eSx1U4e4StnXTXbF8Dg&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:50:33] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:50:42] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:51:21] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:51:56] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:05] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:13] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:14] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:57:00] invalid literal for int() with base 10: '@☬gδzδƥ☬parazit'
+[Jumat, 28 - 08 - 2020 | 02:34:09] invalid literal for int() with base 10: '@ᅠᅠ'
+[Jumat, 28 - 08 - 2020 | 02:34:59] list index out of range
+[Senin, 31 - 08 - 2020 | 05:47:46] invalid literal for int() with base 10: 'onurcan'
